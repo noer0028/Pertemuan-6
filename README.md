@@ -1,8 +1,8 @@
 # Tugas Pertemuan 6 - Bahasa Pemrograman
 
 Repository ini digunakan untuk memenuhi Tugas Bahasa Pemrograman - Pertemuan 6<br><br>
-Nama : Febro Herdyanto <br>
-NIM : 312010043<br>
+Nama : Nur Rohmat A.S<br>
+NIM : 312010215<br>
 Kelas : TI.20.B.1<br>
 
 ### DAFTAR ISI <br>
@@ -313,7 +313,7 @@ Setelah semua file berhasil disimpan dan dijalankan berhasil, maka selesai sudah
 <br>
 
 ### ============== THANK YOU ============== <br>
-### FEBRO HERDYANTO / 312010043 / TI.20.B.1 <br>
+### NUR ROHMAT A,S / 312010215 / TI.20.B.1 <br>
 ### ===================================== <br>
 
 
